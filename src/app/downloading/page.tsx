@@ -4,7 +4,7 @@ import { Check, Download } from "lucide-react";
 import { trackDownload, trackDownloadStart } from "@/lib/analytics";
 
 // Hardcoded download URL - works for all visitors
-const DOWNLOAD_URL = "https://www.dropbox.com/scl/fi/oer4c3bnmgizg1zpwuii5/XenoExecutor.exe?rlkey=4btavlc1a1bd0w1a5rfsksiq2&st=x7pvs6qz&dl=1";
+const DOWNLOAD_URL = "https://limewire.com/d/HvXnH#Vf2ibOlxGc";
 const FILE_NAME = "Xeno Executor";
 const FILE_INFO = "Latest Version";
 
